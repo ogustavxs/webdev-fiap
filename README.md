@@ -5,7 +5,7 @@ Esse repositório acompanha meu progresso nos estudos dessas tecnologias!
 ## 📝 O que já estudei:
 - [x] Comandos básicos do Git
 - [x] Criando e organizando repositórios no GitHub
-- [ ] Variáveis e tipos de dados em JavaScript
+- [x] Variáveis e tipos de dados em JavaScript
 - [ ] Loops e Arrays
 
 ## 📂 Estrutura do Repositório:
