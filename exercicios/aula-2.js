@@ -1,0 +1,10 @@
+login = prompt("Digite seu login: ");
+senha = prompt("Digite sua senha: ");
+
+if (login == "1234" && senha == "1234") {
+    alert("Login efetuado com sucesso!");
+}
+else {
+    alert("login ou senha incorretos!");
+}
+
