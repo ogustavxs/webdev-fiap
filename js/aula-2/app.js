@@ -28,3 +28,15 @@ if (nome === "gusavo" || nome == null) {
 if (nome === "gustavo" && nome != null) {
     console.log("as coisas deram certo")
 }
+
+switch(nome) {
+    case "gustavo":
+        console.log("O nome é gustavo")
+        break;
+    case "gabriel":
+        console.log("O nome é gabriel")
+        break;
+    default:
+        console.log("Definitivamente não são gemeos")
+        break;
+}
