@@ -6,7 +6,8 @@ Esse repositório acompanha meu progresso nos estudos dessas tecnologias!
 - [x] Comandos básicos do Git
 - [x] Criando e organizando repositórios no GitHub
 - [x] Variáveis e tipos de dados em JavaScript
-- [ ] Loops e Arrays
+- [x] Loops
+- [ ] Manipulação de DOM
 
 ## 📂 Estrutura do Repositório:
 - `/js/` → Anotações e conceitos de JavaScript   
